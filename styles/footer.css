@@ -1,0 +1,40 @@
+footer {
+  background-color: #616161;
+  padding: 40px 20px;
+}
+
+.pagination-button-container {
+  margin-bottom: 30px;
+}
+
+.previous-button,
+.next-button {
+  padding: 15px 25px;
+  font-size: 15px;
+  border-radius: 0;
+  border: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.previous-button {
+  opacity: 0.2;
+  cursor: not-allowed;
+}
+
+.previous-button:hover {
+  background-color: white;
+  color: black;
+}
+
+.next-button:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.footer-text {
+  color: white;
+  font-size: 15px;
+  font-weight: 300;
+}

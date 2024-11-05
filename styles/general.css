@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  background-color: #f1f1f1;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}

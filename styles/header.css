@@ -1,0 +1,20 @@
+header {
+  text-align: center;
+  padding: 50px 0;
+}
+
+header h1 {
+  font-size: 38px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+header p {
+  font-size: 15px;
+}
+
+header .unknown {
+  background-color: black;
+  color: white;
+  padding: 2px 6px;
+}
